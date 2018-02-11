@@ -1,0 +1,14 @@
+MDF-G3.cdr:  
+  CorelDraw file with all parts for printing to 24"x18" sheets.  
+  The first two pages are all the required parts.  Remaining sheets are
+  extra parts and don't need to be cut.
+
+  Laser Cutter was set to cut 1/4" MDF.
+
+*.dxf: 
+  Individual parts for laser cutter.
+
+Traveller.stl:
+  The traveller that moves along the rail for 3D printing.
+
+           

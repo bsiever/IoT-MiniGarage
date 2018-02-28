@@ -389,7 +389,7 @@ void setLightPWM(int cyclePct) {
   byte data;
   if(cyclePct == 0)
     data = 0;
-  else if(cyclePct = 255)
+  else if(cyclePct == 255)
     data = 255;
   else if(cyclePct>100)
     data = 0;
